@@ -1,56 +1,70 @@
 ///CATEGORY   
 http://localhost:7800/category
+https://groceryclonapis.herokuapp.com/category
+
 
 
 
 ///PRODUCTS 
 http://localhost:7800/products
+https://groceryclonapis.herokuapp.com/products
 
 
 
 ///PRODUCTS WITH RESPECT OF CATEGORY
 http://localhost:7800/products?category_id=4
+https://groceryclonapis.herokuapp.com/products?category_id=4
 
 
 
 ///FILTER
 http://localhost:7800/filter/1?lcost=100&hcost=500
+https://groceryclonapis.herokuapp.com/filter/1?lcost=100&hcost=500
+
 
 
 
 ///SORTING
 ///low to high
 http://localhost:7800/filter/1?lcost=100&hcost=1000&sort=1
+https://groceryclonapis.herokuapp.com/filter/1?lcost=100&hcost=1000&sort=1
 
 
 ///high to low
 http://localhost:7800/filter/1?lcost=100&hcost=1000&sort=-1
+https://groceryclonapis.herokuapp.com/filter/1?lcost=100&hcost=1000&sort=-1
 
 
 
 ///DETAILS
 http://localhost:7800/productDetails/5
+https://groceryclonapis.herokuapp.com/productDetails/5
 
 
 ///MENU 
 http://localhost:7800/menu/5
+https://groceryclonapis.herokuapp.com/menu/5
 
 
 ///ORDERS
 http://localhost:7800/orders
+https://groceryclonapis.herokuapp.com/orders
 
  
 ///DELETE ORDERS
 http://localhost:7800/deleteorder
-
+https://groceryclonapis.herokuapp.com/deleteorder
 
 ///PLACE ORDERS
 http://localhost:7800/placeorder
+https://groceryclonapis.herokuapp.com/placeorder
 
 
 //UPDATE ORDERS
 http://localhost:7800/updateorder/620b55cc888531d7950d3845?status=Success
+https://groceryclonapis.herokuapp.com/updateorder/620b55cc888531d7950d3845?status=Success
 
 
 ///DETAILS ON USER SELECTION
 http://localhost:7800/menuItem
+https://groceryclonapis.herokuapp.com/menuItem
