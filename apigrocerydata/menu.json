@@ -1,0 +1,314 @@
+db.menu.insert(
+[
+    
+    {
+        "id": 1,
+        "name": " Taj Mahal Tea Non South 500g",
+        "category_id": 1,
+        "category":"Beverages",
+        "img": "https://imgur.com/vlra9vX",
+        "description": "It is made from premium quality ingredients. It is a refreshing drink with unique flavour and strong aroma. It is an ideal drink to consume at anytime of the day. It is easy to prepare",
+        "price": 220,
+        "rating":4.9
+    },
+    {
+        "id": 2,
+        "name": " Coca-Cola Can 300ml",
+        "category_id": 1,
+        "category":"Beverages",
+        "img": "https://imgur.com/T9o8sGf",
+        "description": "Regardless of occasions, time and age group, Coca-Cola stays synonymous with happiness and celebration. A Coke is the first thing that comes to the mind of millions across the globe when they reach out for a cold drink. Coca-Cola has a truly remarkable heritage. The light coke is sugar free, with low calories and fat.",
+        "price": 70,
+        "rating":4.6
+    },
+    {
+        "id": 3,
+        "name": "Tropicana Juicy Apple 200ml",
+        "category_id": 1,
+        "category":"Beverages",
+        "img": "https://imgur.com/fCbiOU5",
+        "description": ".Tropicana Apple Delight Fruit Juice 200ml offers you all the essential nutrients of fresh apples. This fruit juice is very tasty and it is perfect if you have it in the morning. Tropicana apple juice is prepared with great care. It has the natural colour and flavour of apples.",
+        "price": 118,
+        "rating":4.9
+    },
+    {
+        "id": 4,
+        "name": " Everyday Dairy Whitener 400g",
+        "category_id": 1,
+        "category":"Beverages",
+        "img": "https://imgur.com/jmOOfgN",
+        "description": "Nestle Everyday is one of the best-selling dairy whitener in the country. The best quality milk is sourced from well-looked-after cattle that are fed with the right nutrients. Nestlé is a Swiss transnational food and drink company headquartered in Vevey, Vaud, Switzerland. It has been the largest food company in the world. Nestlé's products include baby food, medical food, bottled water, breakfast cereals, coffee and tea, confectionery,",
+        "price": 120,
+        "rating":4.3
+    },
+    {
+        "id": 5,
+        "name": "Tata Tea 1Kg",
+        "category_id": 1,
+        "category":"Beverages",
+        "img": "https://imgur.com/lqj8vU5",
+        "description": "It is made from premium quality ingredients. It is a refreshing drink with unique flavour and strong aroma. It is an ideal drink to consume at anytime of the day. It is easy to prepare",
+        "price": 157,
+        "rating":4.2
+    },
+    {
+        "id": 6,
+        "name": " BRU Instant Coffee 50g",
+        "category_id": 1,
+        "category":"Beverages",
+        "img":"https://imgur.com/k8dX8hR",
+        "description": "BRU Instant Coffee was launched in 1968 and was India’s first coffee- chicory mix instant coffee. It has remained India’s No. 1 coffee brand since then.  ",
+        "price": 85,
+        "rating":4.6
+    },
+    
+  
+    {
+        "id": 7,
+        "name": "Californian Walnut Kernels",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://imgur.com/yDhMo0v",
+        "description": "High protein, dietary fiber, no gluten, no GMO, zero trans fat, zero cholesterol Rich source of omega-3, anti oxidants and vitamins, calcium, iron and magnesium",
+        "price":1000,
+        "rating":4.6
+    },
+    {
+        "id": 8,
+        "name": "Select Indian Kismish Long 100g",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://imgur.com/QdNo7H2",
+        "description":"Black Raisins seedless | Kismis | Kaali Drakh - 1 kg | best Quality Indian Dry fruit; Raisin are Natural Sun Dried; Fresh, Bigger in size; Nutritious; Tasty and Healthy; Made from Fresh Crop Season Grape" ,
+        "price":273,
+        "rating":4.7
+    },
+    {
+        "id":9,
+        "name": " Select Cashew Whole 200g",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://imgur.com/wI2cyDY",
+        "description": "Rich source of fibre calcium and iron,They contains zero trans fat and zero cholesterol",
+        "price":455,
+        "rating":4.5
+    },
+    {
+        "id":10,
+        "name": " Select Almonds 200g",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://imgur.com/GvisUyB",
+        "description": "100% NATURAL PLAIN W450 CASHEW NUTS: Handpicked premium, big sized, fresh, crunchy, raw cashew Nuts.",
+        "price":700,
+        "rating":4.8
+    },
+    {
+        "id":11,
+        "name": "Select Californian Walnut Whole 500g",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://imgur.com/2iuinjJ",
+        "description": "Healthy nuts and dried fruits, Good for an active lifestyle Improves digestion, immunity, mental health, stop urinary tract infections",
+        "price":900,
+        "rating":4.9
+    },
+    {
+        "id":12,
+        "name": "Select Pistachio Salted 100g",
+        "category_id": 2,
+        "category":"Dryfruits",
+        "img":"https://imgur.com/CwNBRTT",
+        "description": "Good for an active lifestyle perfect for healthy snacking.Healthy source of antioxidants, Vitamins, Minerals & Iron.",
+        "price":700,
+        "rating":5.0
+    },
+    
+    {
+        "id": 13,
+        "name": "Onion 1kg",
+        "category_id": 5,
+        "category":"Fruits&vegetables",
+        "img":"https://imgur.com/M39EjJg",
+        "description": " One of the favourite ingredient in salads, it can be mixed and fried with gram flour to make delectable snacks and Pakodas too. Onions also help to improve the functions of the digestive system, because it releases the digestive juices and cures any problem related to digestion.",
+        "price":250,
+        "rating":4.6
+    },
+    {
+        "id": 14,
+        "name": "Potato 1kg",
+        "category_id": 5,
+        "category":"Fruits&vegetables",
+        "img":"https://imgur.com/Qt7tLqV",
+        "description": "Fresh Potatoes are rich in nutrients with reasonable amount of calories. You can include these potatoes into your regular meals for a good supply of carbohydrates, dietary fibers and essential minerals such as copper, magnesium, and iron",
+        "price":100,
+        "rating":4.5
+    },
+    {
+        "id": 15,
+        "name": "Tomato 1kg",
+        "category_id": 5,
+        "category":"Fruits&vegetables",
+        "img":"https://imgur.com/HURHGQn",
+        "description": " The tomato is consumed in diverse ways, including raw, as an ingredient in many dishes, sauces, salads, and drinks. Tomatoes keep best unwashed at room temperature and out of direct sunlight. It is not recommended to refrigerate as this can harm the flavor.",
+        "price":300,
+        "rating":4.7
+    },
+    {
+        "id": 16,
+        "name": " Banana Robusta 1kg",
+        "category_id": 5,
+        "category":"Fruits&vegetables",
+        "img":"https://imgur.com/uhWcrDy",
+        "description": " It will helping people with type 2 diabetes control blood sugars and aids blood pressure control. It helps to control blood sugar, manage weight and lower blood cholesterol levels. Raw Bananas also make a good choice in the making of Chips with salt and chilli powder on it.",
+        "price":120,
+        "rating":4.2
+    },
+    {
+        "id": 17,
+        "name": "Pomegranate Arakta 500g",
+        "category_id": 5,
+        "category":"Fruits&vegetables",
+        "img":"https://imgur.com/sSRoRcm",
+        "description": " It will helping people with type 2 diabetes control blood sugars and aids blood pressure control. It helps to control blood sugar, manage weight and lower blood cholesterol levels. Raw Bananas also make a good choice in the making of Chips with salt and chilli powder on it",
+        "price":200,
+        "rating":3.7
+    },
+    {
+        "id": 18,
+        "name": "Orange Kinnow 500g ",
+        "category_id": 5,
+        "category":"Fruits&vegetables",
+        "img":"https://imgur.com/S4HXV75",
+        "description":  "The Tree Grows Vigorously And Has An Upright Form, With A Strong Tendency To Alternate Bearing. The Fruit Is Oblate With A Smooth Orange Rind That Does Not Peel Especially Well For A Mandarin. The Flesh Is Orange, Seedy, And Has A Rich Distinctive Flavour.",
+        "price":320,
+        "rating":4.7
+    },
+    
+   
+    {
+        "id":19 ,
+        "name": "Select Jeera Whole 100g",
+        "category_id": 4,
+        "category":"Spices",
+        "img":"https://imgur.com/OdTLEmN",
+        "description": "this spice is well-known not just for its flavour, but also for the wellbeing benefits of cumin seeds. It is a familiar ingredient in Indian kitchens. Apart from adding savour to a dish, it has got fitness benefits too.",
+        "price":300,
+        "rating":4.3
+    },
+    {
+        "id":20,
+        "name": " Turmeric Powder 100g",
+        "category_id": 4,
+        "category":"Spices",
+        "img":"https://imgur.com/Xh2J5oc",
+        "description": " Turmeric Powder is prepared from turmeric selected by our experts directly from the farmers. The turmeric is selected the traditional way - it has to be crisp, sun-dried, free of impurities and golden in colour.",
+        "price":400,
+        "rating":4.6
+    },
+    {
+        "id":21,
+        "name": "Chilli Powder 100g",
+        "category_id": 4,
+        "category":"Spices",
+        "img":"https://imgur.com/UZFcN7O",
+        "description": "Perfectly balanced in color and taste.To bring you Chilli Powder, we select chilli the traditional way",
+        "price":150,
+        "rating":4.7
+    },
+    {
+        "id": 22,
+        "name": "Select Ajwain 100g",
+        "category_id": 4,
+        "category":"Spices",
+        "img":"https://imgur.com/RwTcjKj",
+        "description": "cinnamon sticks are not only hailed for their delectable taste but also titled as a superfood owing to a large number of health benefits they provide. They are full of vital nutrients as well. Ceylon Cinnamon sticks are known to aid in weight loss, help control acne, and decrease inflammation. These delectable sticks are excellent source of antioxidants that are deemed to reduce oxidative stress and deter aging.",
+        "price":180,
+        "rating":4.8
+    },
+    {
+        "id":23 ,
+        "name": "Select Sauf 100g",
+        "category_id": 4,
+        "category":"Spices",
+        "img":"https://imgur.com/WOAAxsl",
+        "description": " Saunf is an integral flavouring agent and it’s the soul of many Indian dishes. Saunf is a cooling and sweet-smelling herb that is utilised in different cooking preparations as well. It has a perfumed smell and taste. It is a greenish-brown, small oval seed from a plant in the parsley family..",
+        "price":110,
+        "rating":5.0
+    },
+    {
+        "id": 24,
+        "name": "Coriender powder 100gm",
+        "category_id": 4,
+        "category":"Spices",
+        "img":"https://imgur.com/Cgu1jCr",
+        "description": "Coriander Powder makes any dish special. It turns any vegetable into a tasty treat. It is handpicked from freshest spices. Catch Spices is today a household name and synonymous with and quality innovation.",
+        "price":55,
+        "rating":4.5
+    },
+    
+
+
+   {
+    "id": 25,
+    "name": "Loose Bestprice Tur Dal",
+    "category_id": 3,
+    "category":"Pulses",
+    "img":"https://imgur.com/I25b5JV",
+    "description": "A staple in the Indian diet, toor dal is used to prepare sambar, dal tadka, the maharashtrian varan and more. Bestprice Toor Dal is of best quality from select farms in Latur. It is rich in protein, vitamins and iron and can be enjoyed well with rotis or rice. .",
+    "price":30,
+    "rating":4.1
+},
+{
+    "id": 26,
+    "name": " Loose Bestprice Moong Dal",
+    "category_id": 3,
+    "category":"Pulses",
+    "img":"https://imgur.com/HDjSwno",
+    "description": "Moong dal is also sometimes referred to as lentils or split pigeon peas. This usual Indian dish is frequently served with rich spices over rice, and is a staple in several households and Indian restaurants. It is a type of the legume family, and it is not only tasty, it also contains a number of health benefits",
+    "price":50,
+    "rating":4.2
+},
+{
+    "id": 27,
+    "name": "Loose Bestprice Channa Dal",
+    "category_id": 3,
+    "category":"Pulses",
+    "img":"https://imgur.com/acooyQB",
+    "description": "Channa Dal is a prepared source of proteins for a balanced diet including little or no meat. It is sugary and nutty taste, this dal is amongst the most well-liked dal in India. It contains a mild sweet flavor when cooked and is highly nutritious.",
+    "price":90,
+    "rating":4.3
+},
+{
+    "id": 28,
+    "name": "Loose Value Green Moong",
+    "category_id": 3,
+    "category":"Pulses",
+    "img":"https://imgur.com/20SoQsB",
+    "description": "Moong dal is also sometimes referred to as lentils or split pigeon peas. This usual Indian dish is frequently served with rich spices over rice, and is a staple in several households and Indian restaurants. It is a type of the legume family, and it is not only tasty, it also contains a number of health benefits.",
+    "price":70,
+    "rating":4.7
+},
+{
+    "id": 29,
+    "name": "Loose Value Masoor Dal",
+    "category_id": 3,
+    "category":"Pulses",
+    "img":"https://imgur.com/EjNwDU7",
+    "description": "Masoor dal red in colour. Dals or Pulses are considered as the best source of protein, also known as an important building block for the body. Masoor Dal, a small but nutritionally mighty member of the legume family, are a very good source of cholesterol-lowering fiber. ",
+    "price":100,
+    "rating":4.5
+},
+{
+    "id": 30,
+    "name": " Loose Bestprice Moong Chilka",
+    "category_id": 3,
+    "category":"Pulses",
+    "img":"https://imgur.com/APthKGf",
+    "description": "moong dal is also sometimes referred to as lentils or split pigeon peas. This usual Indian dish is frequently served with rich spices over rice, and is a staple in several households and Indian restaurants. It is a type of the legume family, and it is not only tasty, it also contains a number of health benefits.",
+    
+    "price":30,
+    "rating":4.1
+}
+]
+)

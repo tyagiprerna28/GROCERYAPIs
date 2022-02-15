@@ -1,0 +1,35 @@
+db.category.insert(
+[
+    {
+        "_id":1,
+        "category_name":"Beverages",
+        "category_id":1,
+        "category_image":"https://imgur.com/a/KduwSic"
+    },
+    {
+        "_id":2,
+        "category_name":"Dryfruits",
+        "category_id":2,
+        "category_image":"https://imgur.com/zcnLFSa"
+    },
+    {
+        "_id":3,
+        "category_name":"Pulses",
+        "category_id":3,
+        "category_image":"https://imgur.com/x8mh9DZ"
+    },
+    {
+        "_id":4,
+        "category_name":"Spices",
+        "category_id":4,
+        "category_image":"https://imgur.com/13X9QUr"
+    },
+    {
+        "_id":5,
+        "category_name":"Fruits&vegetables",
+        "category_id":5,
+        "category_image":"https://imgur.com/undefined"
+    }
+    
+]
+)

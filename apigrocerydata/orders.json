@@ -1,0 +1,44 @@
+db.orders.insert(
+[
+    {
+        "_id":1
+        "category_id":5,
+        "category_name":"Fruits&vegetables",
+        "name":"user",
+        "phone":8731678554,
+        "email":"user@gmail.com",
+        "cost":350,
+        "address":"10/59 svnagar",
+        "menuItems":[ 13,14 ],
+        "bank":"SBI Bank",
+        "bank_status":"TXN_success",
+        "date":"09-02-2022",
+        "status":"pending"
+    },
+    {
+        
+        "category_id": 5,
+        "category_name": "Fruits&vegetables",
+        "name": "user",
+        "phone": 8731678554,
+        "email": "user@gmail.com",
+        "cost": 400,
+        "address": "10/59 svnagar",
+        "menuItems": [14,15],
+        "status": "pending"
+      },
+      {
+        
+        "category_id": 5,
+        "category_name": "Fruits&vegetables",
+        "name": "user",
+        "phone": 8731678554,
+        "email": "user@gmail.com",
+        "cost": 420,
+        "address": "10/59 svnagar",
+        "menuItems": [15,16],
+        "status": "pending"
+      },
+
+]
+)

@@ -1,0 +1,168 @@
+db.data.insert(
+[
+    {
+        "_id":1,
+        "category_id":1,
+        "category_name":" Taj Mahal Tea Non South 500g",
+        "category_image": "https://imgur.com/vlra9vX",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost":120,
+        "contact_number": 945567891,
+        "category_type":[
+            {
+                "category_id":1,
+                "category":"Beverages"
+            }
+        ]
+
+    },
+    {
+        "_id":2,
+        "category_id":1,
+        "category_name":"Coca-Cola Can 300ml",
+        "category_image":"https://imgur.com/T9o8sGf",
+        "average_rating": 4.8,
+        "rating_text": "Good",
+        "cost":420,
+        "contact_number": 876567891,
+        "category_type":[
+            {
+                "category_id":1,
+                "category":"Beverages"
+            }
+        ]
+
+    },
+    {
+        "_id":3,
+        "category_id":2,
+        "category_name":"Californian Walnut Kernels",
+        "category_image":"https://imgur.com/yDhMo0v",
+        "average_rating": 4.7,
+        "rating_text": "Good,High protein",
+        "cost": 900,
+        "contact_number": 655567891,
+        "category_type":[
+            {
+                "category_id": 2,
+                "category":"Dryfruits"
+            }
+        ]
+
+    },
+    {
+        "_id":4,
+        "category_id":2,
+        "category_name":"Select Indian Kismish Long 100g",
+        "category_image":"https://imgur.com/QdNo7H2",
+        "average_rating": 4.1,
+        "rating_text": "very good",
+        "cost": 400,
+        "contact_number": 455567891,
+        "category_type":[
+            {
+                "category_id": 2,
+                "category":"Dryfruits"
+            }
+        ]
+
+    },
+    {
+        "_id":5,
+        "category_id":3,
+        "category_name":"Loose Bestprice Tur Dal",
+        "category_image":"https://imgur.com/I25b5JV",
+        "average_rating": 4.9,
+        "rating_text": "Excellent",
+        "cost": 900,
+        "contact_number": 765567891,
+        "category_type":[
+            {
+                "category_id": 3,
+                "category":"Pulses"
+            }
+        ]
+    },
+    {
+        "_id":6,
+        "category_id":3,
+        "category_name":"Loose Bestprice Moong Dal",
+        "category_image":"https://imgur.com/HDjSwno",
+        "average_rating": 4.2,
+        "rating_text": "very good",
+        "cost": 100,
+        "contact_number": 89765983964,
+        "category_type":[
+            {
+                "category_id": 3,
+                "category":"Pulses"
+            }
+        ]
+    },
+    {
+        "_id":7,
+        "category_id":4,
+        "category_name":"Select Jeera Whole 100g",
+        "category_image":"https://imgur.com/OdTLEmN",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost": 140,
+        "contact_number": 9876508401,
+        "category_type":[
+            {
+                "category_id": 4,
+                "category":"Spices"
+            }
+        ]
+    },
+    {
+        "_id":8,
+        "category_id":4,
+        "category_name":"Turmeric Powder 100g",
+        "category_image":"https://imgur.com/Xh2J5oc",
+        "average_rating": 4.1,
+        "rating_text": "Good",
+        "cost": 90,
+        "contact_number": 87476347401,
+        "category_type":[
+            {
+                "category_id": 4,
+                "category":"Spices"
+            }
+        ]
+    },
+    {
+        "_id":9,
+        "category_id":5,
+        "category_name":"Onion 1kg",
+        "category_image":"https://imgur.com/M39EjJg",
+        "average_rating": 4.5,
+        "rating_text": "Very Good",
+        "cost": 40,
+        "contact_number": 8731678554,
+        "category_type":[
+            {
+                "category_id": 5,
+                "category":"Fruits&vegetables"
+            }
+        ]
+    },
+    {
+        "_id":10,
+        "category_id":5,
+        "category_name":"Potato 1kg",
+        "category_image":"https://imgur.com/Qt7tLqV",
+        "average_rating": 4.1,
+        "rating_text": "Good",
+        "cost": 70,
+        "contact_number": 9871876754,
+        "category_type":[
+            {
+                "category_id": 5,
+                "category":"Fruits&vegetables"
+            }
+        ]
+    }
+]
+)
